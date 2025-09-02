@@ -45,7 +45,7 @@ export default function Sidebar({ userName, type }: SidebarComponentProps) {
       <Box p={10}>
         <Group gap = "xs">
           <Indicator color = "red">
-            <Avatar src="public\awsome.jpg">
+            <Avatar src="awsome.jpg">
             </Avatar>
           </Indicator>
           <Text>
